@@ -1,1 +1,0 @@
-# katotaku1192.github.io
