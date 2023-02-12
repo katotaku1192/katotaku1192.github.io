@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>たまきちLab.</title>
+    <link>https://katotaku1192.github.io/</link>
+    <description>Recent content on たまきちLab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Nov 2022 21:05:33 +0530</lastBuildDate><atom:link href="https://katotaku1192.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>研究業績など</title>
+      <link>https://katotaku1192.github.io/portfolio/publication/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/publication/</guid>
+      <description>&lt;p&gt;随時更新していきます（していきたい）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>研究について</title>
+      <link>https://katotaku1192.github.io/portfolio/research/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/research/</guid>
+      <description>&lt;p&gt;宇宙探査ロボットしてます&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ロボコン</title>
+      <link>https://katotaku1192.github.io/portfolio/robocon/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/robocon/</guid>
+      <description>&lt;p&gt;学部時代は課外活動でのロボット作りに熱中してました．&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>サイゼの間違い探しロボット</title>
+      <link>https://katotaku1192.github.io/portfolio/saize/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/saize/</guid>
+      <description>&lt;p&gt;趣味のロボット作りです．&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>メカ設計</title>
+      <link>https://katotaku1192.github.io/portfolio/mecha_design/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/mecha_design/</guid>
+      <description>&lt;p&gt;最近の本業です&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
