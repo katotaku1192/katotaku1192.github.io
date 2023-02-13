@@ -62,8 +62,12 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Blog"
+  url = "https://tamakichi-blog.netlify.com"
+
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
 
   [params.social]
   #facebook      = "full page or profile url in facebook"
