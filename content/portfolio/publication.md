@@ -10,7 +10,7 @@ weight = 1
 随時更新していきます（していきたい）
 <!--more-->
 #### 国際会議発表
-- **Takuya Kato**, Kentaro Uno and Kazuya Yoshida, “**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**,” In *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, pp. 1365--1370, 2022. （査読あり） [[論文](https://ieeexplore.ieee.org/abstract/document/10011858)] [[動画](https://ieeexplore.ieee.org/abstract/document/10011858)]
+- **Takuya Kato**, Kentaro Uno and Kazuya Yoshida, “**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**,” In *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)*, pp. 1365--1370, 2022. （査読あり） [[論文](https://ieeexplore.ieee.org/abstract/document/10011858)] [[動画](https://youtu.be/dWo28Nl5jgE?si=thcxHhgZ40nrwpab)]
 
 #### 国内会議発表
 - **加藤匠哉**，宇野健太朗，吉田和哉，“**複数のピン配列型把持モジュールによる崖登りロボットの開発**”，第35回自律分散システム・シンポジウム予稿集，pp. 229--230，2023．
