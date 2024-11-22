@@ -1,31 +1,35 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "fig/umanome.JPG"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "焼き物"
-draft = true
-weight = 7
+title = "POTTERY"
+draft = false
+weight = 6
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+「ものづくり」について考える日々
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+私の実家は江戸時代から続く窯元で、今は父親（8代目）が1人で陶器を作っています。\
+小さいころから日常生活が焼き物にあふれており、休みの日は粘土に触れて遊ぶことも少なくありませんでした。
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+時代が時代なら、私は長男なので、中学を卒業したら陶磁器を専門に学ぶ学校に進み、ごく自然に窯を継ぐことになっていたのだと思います。\
+しかし、私の親はこうしたレールに乗せようとすることもなく、私自身が興味を持ったことであれば何でも応援してくれました。今もそうです。
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+大学（大学院も）にも行かせてくれて、今となっては専門&好きな分野で仕事ができるようになったことには感謝しかないですが、このような道を私に歩ませた理由の1つには「陶磁器産業の衰退」があります。\
+仮に息子が窯を継いだとて、これからは焼き物だけで食っていくことも難しくなり、苦しい思いをさせてしまうのではないか、といった思いもあったのだと思います。
+実際、戦前などの時代と比べれば、陶磁器の生産技術は格段に向上し、実家のような小さな会社は価格面では到底太刀打ちできません。食器であれば軽さ、耐久性、使いやすさといった品質面でもかなり厳しい戦いを強いられます。
+そもそも日常的に陶磁器を使う人口が減っているのかもしれません。
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
-## Header Level 2
+しかしながら、実家は私にものづくりの楽しさを教えてくれた原点のような場所であり、おじいちゃんやそのまたおじいちゃんたちが200年くらい続けてきた窯には、いつも小さな誇りを持っていました。何より私は粘土を触って何かを作ることが大好きです。
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+だからこそ、自分がどうにかしてこの窯を次に繋いでいくことはできないものか、もっと面白い場所にできないものか、と考える日々が続いています。
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+何を残して、何を捨てたら「窯」が残るのか、残らないのか？\
+人が作る価値とは？機械が作る価値とは？\
+私の専門分野（ロボット）と「窯」は1つの道で繋げられるのか？繋げるべきなのか？
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+難しいことばかりで、わからないことも多すぎます。
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+とりあえず実家で修行するか～～　いや、その前に博士課程なりに進んでとことん考えるべきか？？

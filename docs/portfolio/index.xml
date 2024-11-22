@@ -5,9 +5,9 @@
     <link>https://katotaku1192.github.io/portfolio/</link>
     <description>Recent content in Portfolios on たまきちLab.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate><atom:link href="https://katotaku1192.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate><atom:link href="https://katotaku1192.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>研究業績など</title>
+      <title>Publication</title>
       <link>https://katotaku1192.github.io/portfolio/publication/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
@@ -16,39 +16,48 @@
     </item>
     
     <item>
-      <title>研究について</title>
+      <title>RESEARCH</title>
       <link>https://katotaku1192.github.io/portfolio/research/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://katotaku1192.github.io/portfolio/research/</guid>
-      <description>&lt;p&gt;修士時代の研究内容&lt;/p&gt;</description>
+      <description>&lt;p&gt;大学院での研究内容を紹介します&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>ロボコン</title>
+      <title>ROBOCON</title>
       <link>https://katotaku1192.github.io/portfolio/robocon/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://katotaku1192.github.io/portfolio/robocon/</guid>
-      <description>&lt;p&gt;学部時代は課外活動でのロボット作りに熱中してました．&lt;/p&gt;</description>
+      <description>&lt;p&gt;学部時代はロボット作りに熱中してました&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>サイゼの間違い探しロボット</title>
+      <title>PERSONAL PROJECT</title>
       <link>https://katotaku1192.github.io/portfolio/saize/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>https://katotaku1192.github.io/portfolio/saize/</guid>
-      <description>&lt;p&gt;趣味のロボット作りです．&lt;/p&gt;</description>
+      <description>&lt;p&gt;趣味で作ったロボットです．&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>メカ設計</title>
-      <link>https://katotaku1192.github.io/portfolio/mecha_design/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>MIMOSA</title>
+      <link>https://katotaku1192.github.io/portfolio/mimosa/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://katotaku1192.github.io/portfolio/mecha_design/</guid>
-      <description>&lt;p&gt;最近の本業です&lt;/p&gt;</description>
+      <guid>https://katotaku1192.github.io/portfolio/mimosa/</guid>
+      <description>&lt;p&gt;高校時代の夢は植物生理学者でした&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>POTTERY</title>
+      <link>https://katotaku1192.github.io/portfolio/yakimono/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://katotaku1192.github.io/portfolio/yakimono/</guid>
+      <description>&lt;p&gt;「ものづくり」について考える日々&lt;/p&gt;</description>
     </item>
     
   </channel>

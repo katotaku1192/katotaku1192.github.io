@@ -2,12 +2,12 @@
 image = "fig/pin_array_robot.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "研究について"
+title = "RESEARCH"
 draft = false
 weight = 2
 +++
 
-修士時代の研究内容
+大学院での研究内容を紹介します
 <!--more-->
 
 東北大学 工学研究科 航空宇宙工学専攻 宇宙ロボット研究室に所属していました．\
@@ -23,5 +23,10 @@ weight = 2
 
 ロボットと非構造化環境とのインタラクションについては，卒業してからも興味をもっているテーマのひとつであり，いつか本物の生き物のような，賢く，柔軟なロボットを自らの手で作れたらなぁと思っています．
 
-IEEE ROBIO 2022で発表した動画↓（修士研究の一部です）
+#### 凸形・凹形両方の形状の岩を把持できるグリッパ機構
+（IEEE ROBIO 2022で発表：T. Kato, et al., “**A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles**,” In *Proc. 2022 IEEE Int. Conf. on Robotics and Biomimetics (ROBIO)*, pp. 1365--1370, 2022. ）
 {{< youtube dWo28Nl5jgE >}}
+
+#### グリッパ機構を応用した移動ロボット
+（第35回自律分散システム・シンポジウムで発表）
+![umius_movie](/fig/umius_movie.gif)

@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
 image = "fig/mecha_design.jpg"
 date = "2016-11-05T19:59:22+05:30"
 title = "メカ設計"

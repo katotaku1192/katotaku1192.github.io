@@ -25,7 +25,6 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2022 Takuya Kato"
   sidebarAbout = [
-    "ロボットの研究をしている大学院生です．",
     "これまでに作ったもの，考えたことなどを書き溜めていくページです．"
   ]
   # Contact page
@@ -58,12 +57,12 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "ABOUT"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Blog"
-  url = "https://tamakichi-blog.netlify.com"
+  #[[params.navlinks]]
+  #name = "Blog"
+  #url = "https://tamakichi-blog.netlify.com"
 
   #[[params.navlinks]]
   #name = "Get in touch"
